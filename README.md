@@ -17,18 +17,6 @@ El dataset ofrece gran variedad de datos acerca de cada vuelo pero para sacar co
 - segmentsAirlineName (Nombre de la aerolínea encargada del vuelo)
 - segmentsAirlineCode (Código de la aerolínea encargada del vuelo)
 
-# Resultados gracias a los datos obtenidos 
-
-- Promedio de tarifas por empresa
-- Relación entre casos de covid y el número de vuelos
-- Número de vuelos por día
-- Relación entre distancia y tarifa
-- Número de vuelos por aerolínea
-- Evolución de la tarifa según los días
-- Número de viajes sin escalas
-- Vuelos por día
-- Viajes más comunes
-
 # Herramientas utilizadas
 - Apache Spark: Motor multi-lenguaje utilizado para facilitarnos la ejecución de los datos.
 - Python: Lenguaje de programación base para ejecutar spark.
